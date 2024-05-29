@@ -1,5 +1,7 @@
 
-## Archive
+## Comets Archive
+
+This is archive repo for [Comets](https://github.com/jurakovic/Comets).
 
 In the beginning no actual source control system was used. Instead there were multiple copies of folders in "[*Final*](https://phdcomics.com/comics/archive.php?comicid=1531)"-like manner. There was no real versioning either. Rather some arbitrarily version assigning for the purpose of separating new projects from the old ones.  
 
@@ -17,16 +19,16 @@ Version 0.8 was the only one under source control from the beginning and it was 
 #### Branches
 
 Branches "01" to "08" contain history only for that specific version and now they serve only for archive purpose.  
-Only master branch contains [full history](https://github.com/jurakovic/Comets/commits/master/) from the very first commit through all versions. It was made basically by rebasing one archive branch onto another (with some caveats).  
+Master branch in actual Comets repo contains [full history](https://github.com/jurakovic/Comets/commits/master/) from the very first commit through all versions. It was made basically by rebasing one archive branch onto another (with some caveats).  
 
 | Branch | Version | Source | Commits | Language | Tool |
 |--|--|--|--|--|--|
-| 01_oew_console   | 0.1          | [source](https://github.com/jurakovic/Comets/tree/archive/01_oew_console)   | [commits](https://github.com/jurakovic/Comets/commits/archive/01_oew_console)   | C, C++ | CodeBlocks, Dev-C++     |
-| 02_sscgen        | 0.2          | [source](https://github.com/jurakovic/Comets/tree/archive/02_sscgen)        | [commits](https://github.com/jurakovic/Comets/commits/archive/02_sscgen)        | C++    | C++ Builder, RAD Studio |
-| 03_06_cometoew   | 0.3 - 0.6    | [source](https://github.com/jurakovic/Comets/tree/archive/03_06_cometoew)   | [commits](https://github.com/jurakovic/Comets/commits/archive/03_06_cometoew)   | C++    | C++ Builder, RAD Studio |
-| 07_cometoew      | 0.7          | [source](https://github.com/jurakovic/Comets/tree/archive/07_cometoew)      | [commits](https://github.com/jurakovic/Comets/commits/archive/07_cometoew)      | C#     | Visual Studio           |
-| 08_comets_dev    | 0.8 (dev)    | [source](https://github.com/jurakovic/Comets/tree/archive/08_comets_dev)    | [commits](https://github.com/jurakovic/Comets/commits/archive/08_comets_dev)    | C#     | Visual Studio           |
-| 08_comets_master | 0.8 (master) | [source](https://github.com/jurakovic/Comets/tree/archive/08_comets_master) | [commits](https://github.com/jurakovic/Comets/commits/archive/08_comets_master) | C#     | Visual Studio           |
+| 01_oew_console   | 0.1          | [source](https://github.com/jurakovic/Comets-Archive/tree/01_oew_console)   | [commits](https://github.com/jurakovic/Comets-Archive/commits/01_oew_console)   | C, C++ | CodeBlocks, Dev-C++     |
+| 02_sscgen        | 0.2          | [source](https://github.com/jurakovic/Comets-Archive/tree/02_sscgen)        | [commits](https://github.com/jurakovic/Comets-Archive/commits/02_sscgen)        | C++    | C++ Builder, RAD Studio |
+| 03_06_cometoew   | 0.3 - 0.6    | [source](https://github.com/jurakovic/Comets-Archive/tree/03_06_cometoew)   | [commits](https://github.com/jurakovic/Comets-Archive/commits/03_06_cometoew)   | C++    | C++ Builder, RAD Studio |
+| 07_cometoew      | 0.7          | [source](https://github.com/jurakovic/Comets-Archive/tree/07_cometoew)      | [commits](https://github.com/jurakovic/Comets-Archive/commits/07_cometoew)      | C#     | Visual Studio           |
+| 08_comets_dev    | 0.8 (dev)    | [source](https://github.com/jurakovic/Comets-Archive/tree/08_comets_dev)    | [commits](https://github.com/jurakovic/Comets-Archive/commits/08_comets_dev)    | C#     | Visual Studio           |
+| 08_comets_master | 0.8 (master) | [source](https://github.com/jurakovic/Comets-Archive/tree/08_comets_master) | [commits](https://github.com/jurakovic/Comets-Archive/commits/08_comets_master) | C#     | Visual Studio           |
 
 
 #### Screenshots
